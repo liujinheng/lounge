@@ -63,6 +63,8 @@ p.specials{
 
   background-image: url(images/cocktail.gif);
   background-repeat: repeat-x;
+  width:            280px;
+  float:            right;
 }
 div h2 {
   color: black;
